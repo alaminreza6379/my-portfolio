@@ -1,0 +1,1 @@
+export default function Home() {return (<div style={{ padding: '20px', backgroundColor: '#f0f0f0', minHeight: '100vh' }}><h1>Welcome to Alamin Reza's Portfolio</h1><p>This is the public homepage. Visit <a href="/admin">/admin</a> for login.</p>{/* Add your full portfolio content here, matching your Base44 site */}</div>);};
